@@ -1,3 +1,5 @@
+##MARIO_PRO2
+
 @mainpage
 ## 📝 Descripción
 Este proyecto es una copia simplificada de Super Mario Bros desarrollado en C++. 
